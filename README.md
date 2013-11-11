@@ -10,6 +10,6 @@ p2pサービスでは、通常RTTの短いサーバーへ接続を試みるよ�
 Mac
 
 ##使い方
-./build.sh
+./build.sh  
 sudo ./p2p_delay <nic>
 
