@@ -11,5 +11,5 @@ Mac
 
 ##使い方
 ./build.sh  
-sudo ./p2p_delay <nic>
+sudo ./p2p_delay nic
 
